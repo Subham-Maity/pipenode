@@ -21,7 +21,7 @@ export function FirebaseAuthProtector({
   }
 
   if (status === "unauthenticated") {
-    router.push("/task/sign-in");
+    router.push("/sign-in");
     return null;
   }
 

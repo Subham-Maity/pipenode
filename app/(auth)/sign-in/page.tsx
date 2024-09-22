@@ -1,6 +1,6 @@
 "use client";
 import React from "react";
-import SignInButton from "@/components/auth/button/task/sign-in-button";
+import SignInButton from "@/components/auth/button/sign-in-button";
 
 const SignInPage = () => {
   return (
